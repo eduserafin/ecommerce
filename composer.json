@@ -1,9 +1,9 @@
 {
-    "name": "eduserafin/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
-            "name": "eduardo luiz serafin",
-            "email": "luiz-serafin@hotmail.com"
+            "name": "Hcode Treinamentos",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {

@@ -366,7 +366,7 @@ class SMTP
             $this->smtp_conn,
             true,
             $crypto_method
-        )) {
+        )); {
             return false;
         }
         return true;
